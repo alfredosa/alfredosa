@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alfredosa
 - 👀 I’m interested in blockchain and creative applications that help people have a better life
-- 🌱 I’m currently learning Web Application development
+- 🌱 I’m currently learning Web Application development with Machine Learning
