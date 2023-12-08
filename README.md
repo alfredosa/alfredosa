@@ -1,3 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredosa&size_weight=1&count_weight=1)
-
-[![Alfredo GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredosa)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/alfredosa/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alfredosa" />
+</a>
+<a href="https://github.com/alfredosa/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredosa&layout=compact&langs_count=8&card_width=320" />
+</a>
