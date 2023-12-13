@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://vercel-github-stats-alfredosas-projects.vercel.app/api/top-langs?username=alfredosa&show_icons=true&locale=en&layout=compact" alt="alfredosa" /></p>
 
-<p>&nbsp;<img align="center" src="https://vercel-github-stats-alfredosas-projects.vercel.app/api?username=alfredosa&show_icons=true&locale=en" alt="alfredosa" /></p>
+<p>&nbsp;<img align="center" src="https://vercel-github-stats-alfredosas-projects.vercel.app/api?username=alfredosa&show_icons=true&locale=en&exclude_repo=valuables" alt="alfredosa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfredosa&" alt="alfredosa" /></p>
 
