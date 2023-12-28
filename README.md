@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredosa&label=Profile%20views&color=0e75b6&style=flat" alt="alfredosa" /> </p>
 
-- 🔭 I’m currently working on **Bevy Rust Game**
+- 🔭 I’m currently working on a **Bevy Rust Game**
 
 - 🌱 I’m currently learning **Rust.**
 
