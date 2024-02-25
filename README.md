@@ -8,11 +8,7 @@
 - 🌱 I’m currently learning **C (Programming Lang)**
 
 - 📝 I regularly write articles on [https://medium.com/@asuarezaceves](https://medium.com/@asuarezaceves)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alfredosa10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfredosa10" height="30" width="40" /></a>
