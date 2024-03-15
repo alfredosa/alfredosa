@@ -16,6 +16,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://vercel-github-stats-alfredosas-projects.vercel.app/api/top-langs?username=alfredosa&show_icons=true&locale=en&layout=compact&exclude_repo=valuables&hide=python,jupyter%20notebook,html,css,c_python,cython,jupyter_notebooks,javascript" alt="alfredosa" /></p>
+<p><img align="left" src="https://vercel-github-stats-alfredosas-projects.vercel.app/api/top-langs?username=alfredosa&show_icons=true&locale=en&layout=compact&exclude_repo=valuables&hide=jupyter%20notebook,html,css,c_python,cython,jupyter_notebooks,javascript" alt="alfredosa" /></p>
 
 
