@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Alfredo</h1>
-<h3 align="center">Curious about technical stuff and philosophy.</h3>
+<div align="center" style="background-color: #000000; color: #00FF00; font-family: 'Courier New', monospace;">
 
-- 🔭 I’m currently working on **My Own Game Engine**
+# <span style="color: #00FF00;">Hello, World. I'm Alfredo</span>
 
-- 🌱 I’m currently learning **C (Programming Lang)**
+### <span style="color: #00FF00;">Curious about technical stuff and philosophy.</span>
 
-- 📝 I regularly write articles on [https://medium.com/@asuarezaceves](https://medium.com/@asuarezaceves)
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alfredosa10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfredosa10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alfredosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredosa" height="30" width="40" /></a>
-<a href="https://medium.com/@asuarezaceves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asuarezaceves" height="30" width="40" /></a>
-</p>
+<pre style="background-color: #000000; color: #00FF00;">
+I moved to other git hubs xD https://gitlab.com/asuarezaceves example
 
-<h3 align="left">Languages and Tools:</h3>
+I write code. Into gamedev.
+</pre>
 
-<p><img align="left" src="https://vercel-github-stats-alfredosas-projects.vercel.app/api/top-langs?username=alfredosa&show_icons=true&locale=en&layout=compact&exclude_repo=valuables&hide=jupyter%20notebook,html,css,c_python,cython,jupyter_notebooks,javascript" alt="alfredosa" /></p>
+### <span style="color: #00FF00;">Connect with me:</span>
 
+<a href="https://twitter.com/alfredosa10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfredosa10" height="30" width="40" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /></a>
+<a href="https://linkedin.com/in/alfredosa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredosa" height="30" width="40" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /></a>
+<a href="https://medium.com/@asuarezaceves" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asuarezaceves" height="30" width="40" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /></a>
 
+### <span style="color: #00FF00;">Languages and Tools:</span>
+
+<img align="center" src="https://vercel-github-stats-alfredosas-projects.vercel.app/api/top-langs?username=alfredosa&show_icons=true&locale=en&layout=compact&exclude_repo=valuables&hide=jupyter%20notebook,html,css,c_python,cython,jupyter_notebooks,javascript" alt="alfredosa" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" />
+
+</div>
