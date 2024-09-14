@@ -18,6 +18,6 @@ I write code. Into gamedev.
 
 ### <span style="color: #00FF00;">Languages and Tools:</span>
 
-<img align="center" src="https://vercel-github-stats-alfredosas-projects.vercel.app/api/top-langs?username=alfredosa&show_icons=true&locale=en&layout=compact&exclude_repo=valuables&hide=jupyter%20notebook,html,css,c_python,cython,jupyter_notebooks,javascript" alt="alfredosa" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" />
+<img align="center" src="https://vercel-github-stats-alfredosas-projects.vercel.app/api/top-langs?username=alfredosa&show_icons=true&locale=en&layout=compact&exclude_repo=valuables,onestack&hide=jupyter%20notebook,html,css,c_python,cython,jupyter_notebooks,javascript" alt="alfredosa" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" />
 
 </div>
