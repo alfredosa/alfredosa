@@ -4,7 +4,7 @@
     <div class="container">
         <h1>hey there reader</h1>
         <h2>I'm alfredo. I am Curious about technical stuff and philosophy.</h2>
-        <p class="blink">> Ever since I touched my first computer I've been endlessly curious about how things work. I have had many roles in companies, from Data Engineer or Backend engineer to Tech Lead. Overall I've gather a pretty robust knowledge, with around 9 years of IT experience.
+        <p class="blink"> Ever since I touched my first computer I've been endlessly curious about how things work. I have had many roles in companies, from Data Engineer or Backend engineer to Tech Lead. Overall I've gather a pretty robust knowledge, with around 9 years of IT experience.
 
 I am extremely enthusiastic about Infrastructure and DevOps. I maintain and work with my homelab, which runs all kinds of majestic tech, like Kubernetes, Data Visualization with Grafana, Metrics with Open Telemetry. But I am most passionate about backend technologies, distributed systems and scalability. Difficult problems usually keep me up at night and I find it very fun.
 
