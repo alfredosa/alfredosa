@@ -9,7 +9,7 @@
 I am extremely enthusiastic about Infrastructure and DevOps. I maintain and work with my homelab, which runs all kinds of majestic tech, like Kubernetes, Data Visualization with Grafana, Metrics with Open Telemetry. But I am most passionate about backend technologies, distributed systems and scalability. Difficult problems usually keep me up at night and I find it very fun.
 
 I speak several languages, most notoriously Python and Golang. However, I can confidently say I am well versed in at least the following: </p>
-        <img src="https://vercel-github-stats-alfredosas-projects.vercel.app/api/top-langs?username=alfredosa&show_icons=true&locale=en&layout=compact&exclude_repo=valuables,onestack&hide=jupyter%20notebook,html,css,c_python,cython,jupyter_notebooks,javascript" alt="alfredosa" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+        <img src="https://vercel-github-stats-alfredosas-projects.vercel.app/api/top-langs?username=alfredosa&show_icons=true&locale=en&layout=compact&exclude_repo=valuables,onestack&hide=jupyter%20notebook,html,css,c_python,cython,jupyter_notebooks,javascript" alt="alfredosa" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"/>
 <p>
 Have build frontend applications as well with Typescript (e.g React with Remix or standalone). I do have sensitive code over @ gitlab :) <a href="https://gitlab.com/asuarezaceves" target="_blank">https://gitlab.com/asuarezaceves</a></p>
         <p>I like Code.</p>
